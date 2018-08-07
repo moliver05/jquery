@@ -1,0 +1,20 @@
+.white-background {
+  background-color: gray;
+}
+
+.black-background{
+  background-color: black;
+}
+
+
+.dog-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
